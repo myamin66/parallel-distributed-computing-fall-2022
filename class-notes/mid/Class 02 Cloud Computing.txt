@@ -1,0 +1,9 @@
+What is cloud computing?
+
+How is cloud different from the tradational client-server model of the internet?
+ - internet same for all, montholic server
+ - services in cloud can be more or less to user
+
+Economies of Scale
+ - produce/buy things in bulk scale and it will be cheaper
+ - win win situation on both seller and buyer side
