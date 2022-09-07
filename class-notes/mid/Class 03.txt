@@ -1,0 +1,34 @@
+Cloud Enabling technologies
+	broadband and internet
+	virtualiztions: converting physical it resource into virtual it resource. memory, storage, network can virtualized
+	SOA: Service oriented architecture
+		Service: software componenet which is reusable and easy to integrete
+			can be losely or tightly coupled
+			service should be independent, location transparent
+	web (static), web 2.0(social networks), web 3.0(web-wallets, address)
+backbone isps: tier isps
+
+tier 1 tcechnology: top tier, interational cloud providers, global level isps
+
+Service Orientation: 
+	way of thinking about services
+	services can also be thought in terms of APIs.
+	should be also cross-platform
+Web Services
+	Self describing(what inputs and what functions it can perform), self-contained(auto enlarge if previous is finishing for example memory)
+
+losely coupled: uski services koi aur system bhi use kar sake
+tightly coupled: cant use
+cloud still lags in terms fo security
+
+Multitellnet Technology
+
+Cloud Deployment models
+	public, private, community, hybrid
+PERN (a community cloud), we are using pern
+	Pakistan education research network
+
+Pay per Use: pay on your usage not on subscribed offer (if used 15gb, bill of 15gb not 1tb)
+90% human error, 10% capability of hacker
+community : shared interest
+

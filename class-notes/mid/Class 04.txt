@@ -1,0 +1,30 @@
+Deployment Models: public, private, community, hybrid
+
+Service models: iaas, paas, saas
+
+mutually exclusive: both cannot occur at same time
+
+tradational it: physical hardware need to be available for deploykment
+
+cloud computing: online resources
+
+RoS: racks of switches
+
+service provider owns, manages, maintains cloud services
+
+subscription base vs pay on the go
+IBA			Individual
+
+IaaS: 
+	Infrastructure as a service
+	Bare metal service, core i3 etc, networking services
+how networking as a source will be used on cloud?
+
+	CDN: content delivery network
+previously indivualy manages hardware now service providers
+
+Platform as a Service: PaaS
+	provides cloud based platofrm for developing, running and managaing apps
+
+
+	
