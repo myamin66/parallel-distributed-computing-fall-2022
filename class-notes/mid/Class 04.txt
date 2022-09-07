@@ -1,6 +1,6 @@
 Deployment Models: public, private, community, hybrid
 
-Service models: iaas, paas, saas
+Service models: iaas, paas, saas (these are not mutually exclusive, can be used more than at a time)
 
 mutually exclusive: both cannot occur at same time
 
@@ -21,10 +21,20 @@ IaaS:
 how networking as a source will be used on cloud?
 
 	CDN: content delivery network
-previously indivualy manages hardware now service providers
+On premises(previously indivualy manages) hardware now service providers
 
 Platform as a Service: PaaS
 	provides cloud based platofrm for developing, running and managaing apps
 
 
-	
+Software as a service: SaaS
+	cloud-hosted ready to use application software like google slides, msoft	
+
+AWS: Amazon Web services
+	Popular AWS serves: Elastic Compute Cloud: EC2, for virtual machines; Simple Storage Service, for storage (S3)
+
+Storage types in amazono: File, Black and Object
+
+Hadoop
+two phases of mapReduce Function
+	map and reduce
