@@ -17,3 +17,6 @@ Emulator
 - Built on low level programming language, like assembly language
 
 -Mininet operates only on linux
+
+
+Paper can have commands which will now do in virtual machine
