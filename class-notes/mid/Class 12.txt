@@ -7,3 +7,13 @@ SDN has many components
 - Mininet
 
 Network Simulator(ENSP) Vs Network Emulator(Mininet)
+
+- Simulator works on high levels
+- Developed in High level programming language
+- 
+
+Emulator
+
+- Built on low level programming language, like assembly language
+
+-Mininet operates only on linux
