@@ -20,3 +20,23 @@ Emulator
 
 
 Paper can have commands which will now do in virtual machine
+
+Difference between Upgrade and 
+
+
+Understanding of Commands for mininet
+
+h1 pwd :present working directory of current host
+
+nodes: how much nodes in our network? controllers are not included in nodes.
+
+net: links of the harware is told
+
+swith have eth1, 2, 3, 4
+
+hosts will have eth0
+
+Dump tells: interface, crossponding ip address and process id of every host
+
+link: node(e.g h1) up/down
+
