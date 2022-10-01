@@ -40,3 +40,4 @@ Dump tells: interface, crossponding ip address and process id of every host
 
 link: node(e.g h1) up/down
 
+mininet.org walkthrough and perform all commands
