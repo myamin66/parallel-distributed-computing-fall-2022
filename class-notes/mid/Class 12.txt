@@ -1,0 +1,9 @@
+Software Defined Networks (SDN)
+- reprogrammable, intelligence
+
+SDN has many components
+
+- Open day light controller
+- Mininet
+
+Network Simulator(ENSP) Vs Network Emulator(Mininet)
