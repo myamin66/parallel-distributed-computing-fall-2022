@@ -1,0 +1,6 @@
+create a topology having 6 hosts connected to 4 switches in linear topology.
+
+Dockers
+-Container
+-Types of Hyperwiser(very important question)
+
