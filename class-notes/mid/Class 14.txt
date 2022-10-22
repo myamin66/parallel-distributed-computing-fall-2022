@@ -1,0 +1,10 @@
+System Administrator
+	- O.S
+	- Node or PCs
+
+DevOps
+	Operations: Configuaration management tasks
+		Push(Ansible)
+		Pull(Chef)
+
+IAS: Infrastructure as a core
