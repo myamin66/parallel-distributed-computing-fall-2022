@@ -8,3 +8,45 @@ DevOps
 		Pull(Chef)
 
 IAS: Infrastructure as a core
+
+
+sudo su
+
+apt-get update
+
+
+download package from www.chef.io, downloads, chef workstation, download you rrequired version
+
+copy link
+wget file link
+ls
+dpkg --install
+
+NOW Making Cookbook
+
+mkdr cookbooks
+cd cookbooks
+ls
+chef generate cookbook faisal-cookbook
+accept lisences
+one will be created
+ls
+tree
+cd faisal-cookbook
+CREATING RECIEP
+chef generate recipe pizza
+tree
+cd ..
+come in cookbooks
+vi faisal-book/recipes/pizza.rb
+
+copy ruby code from txt file, instert in that pizza.rb file
+"dir cookbooks"
+chef exec ruby -c <path>faisal-cookbook/recipes/pizza.rb
+
+chef-client -zr "recipe[faisal-cookbook::pizza]"
+(z for local machine, r for run)
+
+----------
+
+chef generate recipe burger 
