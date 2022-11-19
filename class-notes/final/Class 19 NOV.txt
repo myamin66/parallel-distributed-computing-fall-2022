@@ -1,0 +1,66 @@
+prev missed class
+
+pull image from docker
+container made
+
+docker run -it 
+docker pull ubuntu 
+docker start container_name
+docker attach container_name
+	tocuch file
+	exit
+docker commit container_name img_name
+docker diff
+
+
+-----------------------------
+19 Nov 
+------------------------------
+
+Dockerfile -> set of instructions to build image
+
+every command of dockerfile in capital
+
+FROM ubuntu
+RUN  (to execute command)
+MAINTAINER (author description)
+COPY (file copy from local machine to container)
+ADD (from internet to your container)
+EXPOSE (to open ports)
+ENV (key value pair)
+WORKDIR (to set work directory)
+container has no ip_address, but it has its own ports and we match it with host machine
+
+
+start practical
+
+sudo su
+vi Dockerfile
+i
+FROM ubuntu
+WORKDIR /tmp
+RUN echo " this is pti" > /tmp/ptifile
+ENV slogan BehindYouSkipper
+COPY watch /tmp
+VOLUME ["\myvol"]
+
+docker run -it pti(image name)
+pwd
+ls
+cat  ptifile
+echo $slogan
+
+
+------
+build
+--
+docker -it  --name cont2 --privileged=true --volumes-from cont1 ubuntu
+.
+.
+//
+docker images
+docker
+
+
+service apache2 restart 
+service apache2 start
