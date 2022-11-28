@@ -1,0 +1,97 @@
+monolithic: single stone
+
+code for login
+social post
+	shorts
+	friend
+	block list
+	payment platform
+
+Microservices
+
+docker run -it container_name
+
+containers: rocket, dockers
+kubernetes: general container managent platform
+ochestration platform= managent platform
+nick name = k8s(numero names)
+i18n = internationalization
+
+container keeps values 
+actual state 
+desired state
+
+for example, when in manifest, we say i need 4 
+containers, but in actual got 2 container
+when mismatch
+schedular will create extra 2 container with the
+help of API and worker node.
+
+best practice 
+run one container in one pod
+
+cube proxy(communication between pods)
+
+cAdvisor: to generate statics
+
+worker nodes, kubelets, minnions
+
+a kubernetes cluseter must have at least 1 master node and one worker node
+
+
+vertical scalling: existing system ko hi upgrade kar liya
+40 gb hardsisk
+
+horizental scaling: stance ki aik aur copy create
+
+
+----------------------------
+
+Cloud Storage
+-----------------------
+- store and transmit data on cloud
+- different paying plans, fixed or how much used
+
+classification
+ephemeral storage: storage device with VM, when vm vanished it also gone. (non-persistent)
+persistenant storage: Even without VM it will reside there.
+
+
+types of persistent storage
+
+1) file
+2) block
+3) object 
+
+but in computer
+primary storage: directly connect memory (volatile), Though Bios in ROM is primary storage but its non-volatile.
+secondary storage: computer needs ports, ssds (non-volatile)
+tertuary : removable (USBs)
+
+previously
+firstly cashe
+Then Directly attached (usb,hdd, ssd), cheap but not-shareable
+Network attached storage: issue was slow
+Then it was used with fiber: Storage are network
+Object storage: Distributed networks
+
+RAID: redundatnt aray of independant disk, raid configurations replicate data, if one hard drive crash other survives and remains data
+linux has file sysem of ext3 
+windows has now ntfs, previously fat32
+hard drive has partitions, p1, p2, etc
+
+file based storage vs block storage
+
+files also works on blocks
+file is saved in ters of blocks, if one line changes, only that block changees
+
+block base: access blocks directly.
+
+Object storage:
+	usually unstructured data, so not in files not blocks we use objects.
+	attach id with data, and we access that data through HTTP with the help of id.
+storage area network	
+	we directly access blocks in SAN
+meta-data = data about data
+tells how to access this file, and in what blocks these file is present
+
