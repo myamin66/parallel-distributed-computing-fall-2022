@@ -1,0 +1,6 @@
+dockers
+kubernetes
+cloud storage
+big data (all V's, relationship whith cloud computing)
+Openstack
+Hadoop

@@ -1,0 +1,7 @@
+consistent data
+data aik series mein store ho
+if server ko pata ho k apne kitni attempts ki,
+agr 2, 3, reqs k bd wo block kar raha ha then its
+stateful
+otherwise no any limit on request
+its stateless

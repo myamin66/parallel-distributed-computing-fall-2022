@@ -1,0 +1,4 @@
+big data in cloud computing
+big data does not matter on size: e.g. 1gb
+dta that cannot be handled by the tradational databases 
+relational dbs: tables form or key value pair form db
